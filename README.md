@@ -11,3 +11,9 @@ Using the tweets I classified, I'll be able to then classify new tweets ins
 tantly given the conditional probabilities of the words they contain based
 on the two categories I described above
 
+Critérios de classificação:
+0 - Muito irrelevante
+1 - Irrelevante
+2 - Neutro
+3 - Relevante
+4 - Muito rrelevante
